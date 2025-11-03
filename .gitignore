@@ -1,0 +1,7 @@
+**/__pycache__/
+data/clients/
+data/raw/
+outputs/clients/
+outputs/server/
+.venv/
+
